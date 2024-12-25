@@ -1,4 +1,3 @@
-// console.log('Hola nodeJS');
 const main = () => {
     console.log('Aquí iniciaremos el servidor');
 }
