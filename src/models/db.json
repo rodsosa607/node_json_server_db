@@ -1,0 +1,54 @@
+{
+  "profesores": [
+    {
+      "nombre": "Marcelo",
+      "apellido": "Sosa",
+      "materias": [
+        {
+          "nombre": "Programación lógica"
+        },
+        {
+          "nombre": "Desarrollo web"
+        },
+        {
+          "nombre": "Introducción a las bases de datos"
+        }
+      ],
+      "id": "6b1c"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Matías",
+      "apellido": "Sosa",
+      "promedio": 8.2,
+      "id": "fd32"
+    },
+    {
+      "nombre": "Santiago",
+      "apellido": "Sosa",
+      "promedio": 9.5,
+      "id": "72e9"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Introducción a la programación",
+      "duracion": 7,
+      "dificultad": "Baja",
+      "id": "633a"
+    },
+    {
+      "nombre": "Bases de datos",
+      "duracion": 9,
+      "dificultad": "Media",
+      "id": "0c91"
+    },
+    {
+      "nombre": "Algoritmos aplicados",
+      "duracion": 9,
+      "dificultad": "Alta",
+      "id": "c212"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-webserver",
+  "version": "1.0.0",
+  "description": "servidor web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js",
+    "start":"json-server --watch src/models/db.json"
+  },
+  "author": "Rodrigo Marcelo Sosa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
